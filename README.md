@@ -9,7 +9,7 @@ This project analyzes 24,000+ movies from Kaggle to identify high-revenue genres
 * **Industry Trends:** 2020 saw a major revenue decline across all genres due to theater closures, followed by steady recovery in Sci-Fi and Action.
 
 ## Dashboard Overview
-![Power BI Dashboard Screenshot](Screenshot 2026-09-21 120134.png)
+[Dashboard Preview](2026-09-21 123342.png)
 
 ## Recommendations for Investors
 1. **Focus on Top Genres:** Prioritize Sci-Fi, Adventure, and Action for high box-office upside.
@@ -17,5 +17,5 @@ This project analyzes 24,000+ movies from Kaggle to identify high-revenue genres
 3. **Prioritize Rewatchability:** Target concepts with long-term streaming and box-office durability.
 
 ## Project Files
-* `Movie Dataset Presentation.pptx`: Full pitch presentation deck.
-* `Movie_Analysis.pbix`: Power BI source file.
+* `Movie Dataset Presentation.pdf`: Full pitch presentation deck.
+* `Movie Data.pbix`: Power BI source file.
