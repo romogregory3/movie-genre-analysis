@@ -17,5 +17,6 @@ This project analyzes 24,000+ movies from Kaggle to identify high-revenue genres
 3. **Prioritize Rewatchability:** Target concepts with long-term streaming and box-office durability.
 
 ## Project Files
+**Project Documentation:** This project was completed as part of coursework. The analysis and visualizations reflect the work submitted for the class.
 * `Movie Dataset Presentation.pdf`: Full pitch presentation deck.
 * `Movie Data.pbix`: Power BI source file.
