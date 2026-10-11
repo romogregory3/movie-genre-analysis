@@ -1,6 +1,6 @@
 # 🎬 Movie Genre Success Analysis (2000–2024)
 
-## Executive Summary
+## Summary
 This project analyzes 24,000+ movies from Kaggle to identify high-revenue genres and assist film industry investors in making data-driven decisions.
 
 ## Key Insights
